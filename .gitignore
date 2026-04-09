@@ -1,0 +1,72 @@
+# =========================
+# Python basics
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+env/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints
+
+# =========================
+# Data files (VERY IMPORTANT)
+# =========================
+data/
+Datasets/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# =========================
+# Model files
+# =========================
+*.h5
+*.hdf5
+*.keras
+*.pkl
+*.joblib
+*.model
+*.pt
+*.pth
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+*.log
+outputs/
+results/
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
+*.swp
