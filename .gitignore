@@ -1,6 +1,10 @@
 # =========================
 # Python basics
 # =========================
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -71,3 +75,4 @@ Thumbs.db
 *.bak
 *.swp
 *.parquet
+*.txt
